@@ -12,7 +12,6 @@ this project was made during learning and practicing Reverse Engineering & Game 
 3. go to ```Project``` tab -> ```cs2_hackmenu properties``` -> ```Build``` -> change ```Platform Target``` to ```x86```
 4. then hit run :)
 
-5. ## Credit
-6. Swedz C# in youtube for the tutorial
+## Credit
+Swedz C# in youtube for the tutorial
 
-7. 
